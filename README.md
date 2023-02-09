@@ -5,15 +5,20 @@ On va bien s'amuser tous ensemble et j'èspere vraiment que vous pourrez apprend
 ## L'API Gateway ?
 
 **C'est quoi ? 🤷🏽‍♂️ **
+
 L'api gateway et assimilable à la **porte d'entrée** d'une maison 🚪, toute personnes voulant rentrer dans la maison doit passer par cette porte.
 La maison correspond à votre architecture générale et chaque porte (porte de salle de bain, toilette, cuisine, chambres...) à un micro service 🏠.
 
 On rentre d'abord par la porte d'entrée pour acceder aux autres pieces, on passe d'abord par la gateway sans meme que l'utilisateur s'en rende compte pour ensuite acceder au micro service.
 
+
 **Pourquoi ? 🥷🏽 **
+
 La mise en place d'une gateway répond surtout à des problèmes de sécurité et d'organisation, de management de flux. En effet, si jamais votre porte d'entrée disparait, plein de cambrioleur y penetrerons, ou tout simplement plein de gens s'y inviterons sans que vous sachiez qui ils sont, d'où ils viennent, où ils veulent aller, pourquoi sont ils la, et où ils se trouvent dans votre maison.
 
+
 ** Vamos todos 💻**
+
 Si vous avez du mal avec cette notion, essayez tout au long du workshop de recreer ces analogies avec les exercices et la maison.
 Bon courage ! <3
 
