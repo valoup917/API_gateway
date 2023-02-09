@@ -6,6 +6,10 @@ import loadbalancer from '../util/loadbalancer.js'
 
 const router = express.Router()
 
+router.get("/", (req, res) => {
+    res.status(200).send('Home gateway !');
+})
+
 router.get("/ping", (req, res) => {
     res.send("Ok")
 })
